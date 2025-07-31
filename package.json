@@ -1,7 +1,7 @@
 {
-  "name": "flexboxfroggy",
+  "name": "FlexWing",
   "version": "1.0.0",
-  "description": "A game for learning CSS flexbox",
+  "description": "Sebuah permainan untuk belajar CSS Flexbox",
   "main": "game.js",
   "dependencies": {
     "animate.css": "^3.4.0",
