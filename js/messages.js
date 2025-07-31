@@ -8,8 +8,8 @@ var messages = {
     'id': 'Lanjut',
   },
   labelFooter: {
-    'en': 'FlexWing Froggy is created by',
-    'id': 'FlexWing Froggy dibuat oleh',
+    'en': 'FlexWing is created by',
+    'id': 'FlexWing dibuat oleh',
   },
   labelLevel: {
     'en': 'Level',
