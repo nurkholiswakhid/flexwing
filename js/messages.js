@@ -8,8 +8,8 @@ var messages = {
     'id': 'Lanjut',
   },
   labelFooter: {
-    'en': 'Flexbox Froggy is created by',
-    'id': 'Flexbox Froggy dibuat oleh',
+    'en': 'FlexWing Froggy is created by',
+    'id': 'FlexWing Froggy dibuat oleh',
   },
   labelLevel: {
     'en': 'Level',
@@ -26,8 +26,8 @@ var messages = {
     'id': 'dari',
   },
   title: {
-    'en': 'Flexbox Froggy - A game for learning CSS flexbox',
-    'id': 'Flexbox Froggy - Sebuah permainan untuk belajar CSS flexbox',
+    'en': 'FlexWing - A game for learning CSS flexbox',
+    'id': 'FlexWing - Sebuah permainan untuk belajar CSS Flexbox',
   },
   labelReset: {
     'en': 'Reset',
